@@ -1,5 +1,6 @@
 <h1 align="center">Hey, I'm Khashayar 👋</h1>
-<h3 align="center">Full-Stack Developer | DevOps Learner | System Thinker</h3>
+<h3 align="center">Full-Stack Developer • DevOps Learner • System Thinker</h3>
+
 
 ---
 
