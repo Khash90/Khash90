@@ -25,26 +25,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🌐 Portfolio
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=khashayar&show_icons=true&theme=tokyonight" alt="Khashayar's GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=khashayar&theme=tokyonight" alt="GitHub Streak" />
-</p>
+Check out my latest work and projects here:  
+👉 [https://portfolio25-lilac-xi.vercel.app](https://portfolio25-lilac-xi.vercel.app)
 
 ---
 
 ### 📫 Let's Connect
 
-- 💼 LinkedIn:(https://www.linkedin.com/in/khashayar-mir/)
-- 📬 Email: khash.mg@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/khashayar-mir/)
+- 📬 Email: khash.mg@gmail.com  
 
 ---
 
 > ⚡ *“I build things that work — simple as that.”*  
 > *Focused on discipline, skill-building, and clean code.*
-
-
