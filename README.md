@@ -51,7 +51,7 @@
 
 ### 🌐 Portfolio
 
-Check out my latest work and projects here:  
+Check out my portfolio:  
 👉 [https://portfolio25-lilac-xi.vercel.app](https://portfolio25-lilac-xi.vercel.app)
 
 ---
