@@ -13,10 +13,7 @@
 
 ### ⚙️ Tech Stack
 
-#### <h3 align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Infinity_symbol.svg/32px-Infinity_symbol.svg.png" width="22" height="22" style="vertical-align:middle; margin-right:6px;" alt="DevOps Infinity Loop"/> 
-  DevOps & Tools
-</h3>
+#### ♾️ DevOps & Tools
 <p align="left">
   <!-- Core Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/>
