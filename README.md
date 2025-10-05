@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Khashayar 👋</h1>
-<h3 align="center">DevOps • Full-Stack Developer • System Thinker</h3>
+<h3 align="center">DevOps • Full-Stack Developer</h3>
 
 
 ---
