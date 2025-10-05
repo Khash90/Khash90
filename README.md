@@ -13,7 +13,9 @@
 
 ### ⚙️ Tech Stack
 
-#### 🐧 DevOps & Tools
+#### <h3 align="left">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/infinity.svg" alt="Infinity" width="20" height="20" style="vertical-align:middle;"/> DevOps & Tools
+</h3>
 <p align="left">
   <!-- Core Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/>
